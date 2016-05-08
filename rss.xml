@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[COLORADO GOLD]]></title>
         <description><![CDATA[COLORADO GOLD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jmaprospecting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 05:39:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 05:39:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jmaprospecting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Gold Chains Are Actually Made]]></title>
+            <description><![CDATA[<article><h1>How Gold Chains Are Actually Made</h1><p>Uploaded by InspirationVideoz on 2013-07-14.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef98c87f323c3e566797fb79e7084cfea78a5e27.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=-2e7X26C0BQ</link>
+            <guid isPermaLink="false">739c5feb-2b52-4f00-bf8d-47323eb409ee</guid>
+            <pubDate>Sun, 08 May 2016 05:39:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://i.ytimg.com/vi/z_gx-TTMiH8/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ui4Ae4Q8-A7Cta_r7cNHb-w0-Jc">]]></description>
-            <link>undefined7e34e5aa-d3a4-4e28-a3ef-5d5754120565/index.html</link>
+            <link>https://thegrid.ai/jmaprospecting/7e34e5aa-d3a4-4e28-a3ef-5d5754120565/index.html</link>
             <guid isPermaLink="false">7e34e5aa-d3a4-4e28-a3ef-5d5754120565</guid>
             <pubDate>Sun, 08 May 2016 05:39:47 GMT</pubDate>
         </item>
